@@ -1,0 +1,228 @@
+.texto{
+    margin: 0;
+    padding: 0;
+    background: url(https://fotos.subefotos.com/0808f2495517267dee413aaf4b0631cdo.png);
+    background-position: center;
+    
+}
+      
+
+
+.description2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22pt;
+    color: red;
+    margin-top: 0px;
+    
+}
+.header{
+    margin: 0px 100px 10px 40px;
+    color: transparent !important;
+    border-width: 0px !important;
+}
+
+.header button{
+ width: 130px;
+ height: 35px;   
+ margin-top: 30px;
+ margin-right: 100px;
+ border-radius: 4px;
+ background-color: red;
+ color: white;
+}
+
+.description{
+    text-align: center; 
+    font-family: 'arial';
+    font-size: 37pt;
+    color: red;
+}
+
+.card {
+    margin-top: 95px;
+    background-color:transparent;   
+    
+     
+}
+
+
+.container1 h2{
+    text-align: center;
+    font-size: 40pt;
+    color: white;
+}
+
+.container1 h6{
+    text-align: center;
+    font-size: 18pt;
+    color: white;
+}
+
+.informacion{
+    text-align: center;
+    font-size: 15pt;
+    color:white
+}
+
+.container3 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.container3 input{
+    width: 520px;
+    height: 60px;
+    display: block; 
+    align-items: center;
+    justify-content: center;
+    color:white;
+    width: 450px;
+    height: 60px;
+    margin-left: auto; margin-right:auto;
+}
+
+.container3 button {
+    width: 250px;
+    height: 60px;
+    background-color:red;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.texto img{
+    width: 160px;
+    height: 85px;   
+   margin-left: 15px;
+    display:block;
+    
+}
+
+
+.container01 .card-col{
+    
+    margin: 0px 0px 0px 0px ;
+    background-color: black;
+    height: 400px;
+}
+
+.container01 img{
+    
+    width: 25em;
+    margin-top: 05px;
+    margin-bottom: -350px;
+}
+
+.card-col .text{
+    margin: 0em 0em 0em 1em ;
+    font-size: 40pt;
+    color: white;
+}
+ 
+.container01 .text1{
+    margin-top: 0 ;
+    margin: 0em 0em 0em 2em ;
+    font-size: 20pt;
+    color: white;
+}
+
+.container02 {
+    margin-top: 0px;
+    background-color: black;
+    height: 400px;
+}
+
+.container02 .text{
+    text-align:right;
+    margin-right: 90px ;
+    font-size: 40pt;
+    color: white;
+}
+ 
+.container02 .text1{  
+    text-align:left;
+    margin-right: 90px ;
+    margin-left: 409px;
+    font-size: 20pt;
+    color: white;
+}
+
+.container02 img{
+    width: 20em;
+    margin-top: -10em;
+    margin-bottom: -550px ;
+}
+
+.container04 .card-col01{
+    margin: 0px 0px 0px 0px ;
+    background-color: black;
+    height: 400px;
+}
+.container04 img{
+    width: 28em;
+    margin-top: 05px;
+    margin-bottom: -350px;
+    margin-right: 20px;
+}
+
+.container04 .text{
+    margin-top: -75px;
+    margin-left: 50px ;
+    font-size: 40pt;
+    color: white;
+}
+ 
+.container04 .text1{ 
+    margin-left: 50px ;
+    font-size: 20pt;
+    color: white;
+}
+
+.card-text{
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 150px;
+}
+
+.card-text h1{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 40pt;
+    margin-bottom: 10px;
+}
+
+.card-header {
+    text-align: left;
+    color: white;
+    margin-left: 20em;
+    margin-right: 20em;
+    background-color: gray;
+}
+
+.container .card-body{
+    color:white;
+    margin-left: 20em;
+    margin-right: 20em;
+
+}
+
+.card a{
+    color:white
+}
+
+.card p{
+    color:white;
+    margin: 0em 19em ;
+}
+ 
+ 
+.container06 input{
+    width: 520px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}

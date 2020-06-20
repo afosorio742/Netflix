@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    display:block;
+    width:100%;
+}
+.fondo img{
+    width: 15em;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-size: 5em;
+}
+
+.row{
+    margin-left: 5em ;
+    align-items: center;
+  justify-content: center;
+}
+.avatar01{
+    font-size: 12px;
+    margin: 20px 10px ;
+ 
+}
+.avatar02{
+    font-size: 12px;
+    margin: 20px 10px;  
+}
+.avatar03{
+    font-size: 12px;
+    margin: 20px 10px;  
+}
+.avatar04{
+    font-size: 12px;
+    margin: 20px 10px;  
+}
+.avatar05{
+    font-size: 12px;
+    margin: 20px 10px;  
+}
+
+.avatar01 p{
+    text-align: center;
+    color:white;
+    font-size: 2em;
+}
+.avatar02 p{
+    text-align: center;
+    color:white;
+    font-size: 2em;
+}
+.avatar03 p{
+    text-align: center;
+    color:white;
+    font-size: 2em;
+}
+.avatar04 p{
+    text-align: center;
+    color:white;
+    font-size: 2em;
+}
+.avatar05 p{
+    text-align: center;
+    color:white;
+    font-size: 2em;
+}
+
+.header button{
+   
+    width: 260px;
+    height: 40px;
+    background-color:transparent;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto; margin-right:auto;
+    margin-bottom: 244px ;
+   
+
+
